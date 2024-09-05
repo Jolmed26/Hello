@@ -10,3 +10,6 @@ Soy Pepe Medrano, me gusta hacer deporte, mi disciplina son los 5 mil metros pla
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
+
+
+Un gusto Pepe, un placer colaborar contigo.
