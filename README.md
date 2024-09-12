@@ -17,3 +17,5 @@ Un gusto Pepe, un placer colaborar contigo.
 Estamos añadiendo esta linea desde GitHub.
 
 Validación desde la terminal de Visual Studio
+
+Actualización desde visual studio
