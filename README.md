@@ -6,6 +6,10 @@ Soy Pepe Medrano, me gusta hacer deporte, mi disciplina son los 5 mil metros pla
 
 [Fuente:Giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh5aXEyODYybWw2MWk0Y2ZnZXVvcDhpeGI3N2cwM211dmhuYTdxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nq2SJM73tDBpsAy6qH/giphy.gif)
 
+
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
